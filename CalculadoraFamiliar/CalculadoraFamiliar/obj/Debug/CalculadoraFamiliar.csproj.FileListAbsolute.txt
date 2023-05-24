@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\bin\Debug\CalculadoraFamiliar.exe.config
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\bin\Debug\CalculadoraFamiliar.exe
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\bin\Debug\CalculadoraFamiliar.pdb
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.Form1.resources
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.exe
+C:\Users\Usuario\Desktop\CalculadoraFamiliar\CalculadoraFamiliar\obj\Debug\CalculadoraFamiliar.pdb
